@@ -1,5 +1,6 @@
 # hdrezka-cli
 This is a simple cli program, that will play streaming video through the **mpv**.
+
 Це проста консольна программа, яка відтворбє потокове відео через плеер **mpv**.
 
 # From new (later I will add gui)
